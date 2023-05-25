@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"<Unnamed>","l":"Albero_m_ario"},{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"<Unnamed>","l":"ExternalNodeParameterException"},{"p":"<Unnamed>","l":"IllegalNodesNumberException"},{"p":"<Unnamed>","l":"NodeNotInTreeException"},{"p":"<Unnamed>","l":"Nodo_m_ario"},{"p":"<Unnamed>","l":"Run"}];updateSearchResults();
